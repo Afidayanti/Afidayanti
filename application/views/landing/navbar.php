@@ -33,9 +33,9 @@
           <a class="nav-link two" href="<?php echo site_url('galeri');?>">Galeri</a>
         </li> 
         <li>
-          <form action="">
+          <form action="#">
             <input type="search" required>
-            <i><iconify-icon icon="ant-design:search-outlined" width="24" height="24"></iconify-icon></i>
+            <i><iconify-icon icon="ant-design:search-outlined" width="28" height="28"></iconify-icon></i>
           </form>
         </li>
       </ul>

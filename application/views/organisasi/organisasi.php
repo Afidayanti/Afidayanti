@@ -103,7 +103,7 @@
             <a href="#"> &emsp; SEE INFO <img src="<?php echo base_url('assets/img/Vector (4).png ') ?>"></a> 
           </span>
       </div>
-    </div>
+    </div> 
   </div>
  </div> 
  <div class="p-5"> <div class="hrto"></div></div>
