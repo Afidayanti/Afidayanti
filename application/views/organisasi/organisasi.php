@@ -129,12 +129,12 @@
       <span class="close">&times;</span>
       <div class="container">
         <div class="row m-4">
-          <div class="col-lg-5">
+          <div class="col-lg-5 mb-2">
               <img class="modal-contentto" id="img01" style="background-image:none; border-radius: 15px;"> 
           </div>
           <div class="col-lg-7">
             <div class="card">
-              <div class="card-body m-3">
+              <div class="card-body m-4">
                 <h5 class="card-title">Dr. Syaifullah Muhammad, S.T., M.Eng.</h5>
                 <p class="kataw">Chairman</p>
                 <small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 

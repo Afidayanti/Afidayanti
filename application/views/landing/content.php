@@ -11,7 +11,7 @@ mx-auto d-block img-fluid" alt="...">
   <div class="container-fluid p-5 py-2">
     <div class="clearfix">
       <h3 class="float-left">Unit Bisnis</h3>
-      <h6 class="kata float-right p-1">Selengkapnya</h6>
+      <h6 class="kata float-right p-1"><a href="<?php echo site_url('bisnis');?>">Selengkapnya</a></h6>
     </div> 
     <div class="card-deck">
       <div class="card">
@@ -73,7 +73,7 @@ mx-auto d-block img-fluid" alt="...">
 <div class="container-fluid p-5 py-3">
   <div class="clearfix">
     <h3 class="float-left">Berita</h3>
-    <h6 class="kata float-right p-1">Selengkapnya</h6>
+    <h6 class="kata float-right p-1"><a href="<?php echo site_url('berita');?>">Selengkapnya</a></h6>
   </div>  
   <div class="card-deck">
     <div class="card">

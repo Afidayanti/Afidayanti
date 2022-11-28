@@ -22,7 +22,7 @@
         </div>
         <div class="col-lg-4">
           <div class="card-body">
-            <h5 class="card-title"><b>BSI Gandeng ARC USK Perkuat Budidaya Nilam Aceh</b></h5>
+            <h5 class="card-title"><b><a href="<?php echo site_url('detailberita');?>">BSI Gandeng ARC USK Perkuat Budidaya Nilam Aceh</a></b></h5>
             <div class="row mx-md-n5 my-3">
               <div class="col px-md-5">
                 <i><iconify-icon icon="fluent:rectangle-landscape-28-filled" style="color: #d9d9d9;"></iconify-icon></i> 

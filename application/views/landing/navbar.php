@@ -27,7 +27,7 @@
           <a class="nav-link two" href="<?php echo site_url('berita');?>">Berita</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link two" href="<?php echo site_url('produk');?>">Kerjasama</a>
+          <a class="nav-link two" href="<?php echo site_url('kerjasama');?>">Kerjasama</a>
         </li>
         <li class="nav-item">
           <a class="nav-link two" href="<?php echo site_url('galeri');?>">Galeri</a>
